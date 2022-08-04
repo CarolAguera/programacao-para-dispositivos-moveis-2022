@@ -1,7 +1,5 @@
 ## Programação Para Dispositivos Móveis
-- ## 4º Período da UniAlfa - 2022
-
-#
+- ### 4º Período da UniAlfa - 2022
 
 ![Badge](https://img.shields.io/badge/Carolina%20Aguera-Android-319795)
 
